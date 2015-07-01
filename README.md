@@ -76,7 +76,7 @@ Term ___whitespace___ term implies a **single space** on either hand side, multi
     # Yes
     foo = (bar, baz) ->
     # No
-    foo = (bar, baz) ->
+    foo = (bar,baz)->
     ...
     ```
 
